@@ -1,0 +1,2 @@
+# maxViewRCE
+maxView系统dynamiccontent.properties.xhtml接口远程代码执行

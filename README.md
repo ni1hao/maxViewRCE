@@ -2,6 +2,7 @@
 maxView系统dynamiccontent.properties.xhtml接口远程代码执行
 漏洞描述：
 由于用户可输入系统命令，且web应用对用户输入的命令没有限制，导致用户可以随意输入系统命令执行，造成极大危害
+
 ![image](https://github.com/user-attachments/assets/46d70d4e-96fb-4134-a726-575ee8a4bae4)
 
 项目介绍:
